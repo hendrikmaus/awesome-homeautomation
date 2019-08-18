@@ -6,6 +6,7 @@ A curated list of home automation resources for beginners and pros; inspired by 
 
 - [Awesome Home Automation](#awesome-home-automation)
   - [101](#101)
+  - [awesome-smarthome](https://github.com/pfalcon/awesome-smarthome)
 
 ### 101
 
