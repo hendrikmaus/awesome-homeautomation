@@ -13,3 +13,4 @@ A curated list of home automation resources for beginners and pros; inspired by 
 *An opinionated list of 101 resources to get started with.*
 
 - [Heating](./101/heating.md)
+- [Smoke Detection](./101/smoke-detection.md)
